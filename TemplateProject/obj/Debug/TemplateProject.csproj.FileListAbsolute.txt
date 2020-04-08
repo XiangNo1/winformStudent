@@ -1,0 +1,17 @@
+F:\_2020student\TemplateProject\TemplateProject\bin\Debug\utils\db.mdb
+F:\_2020student\TemplateProject\TemplateProject\bin\Debug\TemplateProject.exe.config
+F:\_2020student\TemplateProject\TemplateProject\bin\Debug\TemplateProject.exe
+F:\_2020student\TemplateProject\TemplateProject\bin\Debug\TemplateProject.pdb
+F:\_2020student\TemplateProject\TemplateProject\bin\Debug\CSkin.dll
+F:\_2020student\TemplateProject\TemplateProject\bin\Debug\CSkin.xml
+F:\_2020student\TemplateProject\TemplateProject\obj\Debug\TemplateProject.Form1.resources
+F:\_2020student\TemplateProject\TemplateProject\obj\Debug\TemplateProject.loginForm.Login.resources
+F:\_2020student\TemplateProject\TemplateProject\obj\Debug\TemplateProject.Properties.Resources.resources
+F:\_2020student\TemplateProject\TemplateProject\obj\Debug\TemplateProject.csproj.GenerateResource.cache
+F:\_2020student\TemplateProject\TemplateProject\obj\Debug\TemplateProject.csproj.CoreCompileInputs.cache
+F:\_2020student\TemplateProject\TemplateProject\obj\Debug\TemplateProject.csproj.CopyComplete
+F:\_2020student\TemplateProject\TemplateProject\obj\Debug\TemplateProject.exe
+F:\_2020student\TemplateProject\TemplateProject\obj\Debug\TemplateProject.pdb
+F:\_2020student\TemplateProject\TemplateProject\obj\Debug\TemplateProject.studentForm.Index.resources
+F:\_2020student\TemplateProject\TemplateProject\obj\Debug\TemplateProject.studentForm.StudentList.resources
+F:\_2020student\TemplateProject\TemplateProject\obj\Debug\TemplateProject.classForm.Clazz.resources

@@ -15,3 +15,4 @@ F:\_2020student\TemplateProject\TemplateProject\obj\Debug\TemplateProject.pdb
 F:\_2020student\TemplateProject\TemplateProject\obj\Debug\TemplateProject.studentForm.Index.resources
 F:\_2020student\TemplateProject\TemplateProject\obj\Debug\TemplateProject.studentForm.StudentList.resources
 F:\_2020student\TemplateProject\TemplateProject\obj\Debug\TemplateProject.classForm.Clazz.resources
+F:\_2020student\TemplateProject\TemplateProject\obj\Debug\TemplateProject.csprojAssemblyReference.cache

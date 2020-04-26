@@ -42,8 +42,10 @@
             this.退出ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.帮助ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.skinLabel1 = new CCWin.SkinControl.SkinLabel();
             ((System.ComponentModel.ISupportInitialize)(this.skinSplitContainer1)).BeginInit();
             this.skinSplitContainer1.Panel1.SuspendLayout();
+            this.skinSplitContainer1.Panel2.SuspendLayout();
             this.skinSplitContainer1.SuspendLayout();
             this.skinToolStrip1.SuspendLayout();
             this.skinMenuStrip1.SuspendLayout();
@@ -60,6 +62,10 @@
             // 
             this.skinSplitContainer1.Panel1.Controls.Add(this.skinButton2);
             this.skinSplitContainer1.Panel1.Controls.Add(this.skinButton1);
+            // 
+            // skinSplitContainer1.Panel2
+            // 
+            this.skinSplitContainer1.Panel2.Controls.Add(this.skinLabel1);
             this.skinSplitContainer1.Size = new System.Drawing.Size(1000, 600);
             this.skinSplitContainer1.SplitterDistance = 180;
             this.skinSplitContainer1.TabIndex = 2;
@@ -251,6 +257,18 @@
             this.ToolStripMenuItem.Text = "关于本系统";
             this.ToolStripMenuItem.Click += new System.EventHandler(this.ToolStripMenuItem_Click);
             // 
+            // skinLabel1
+            // 
+            this.skinLabel1.AutoSize = true;
+            this.skinLabel1.BackColor = System.Drawing.Color.Transparent;
+            this.skinLabel1.BorderColor = System.Drawing.Color.White;
+            this.skinLabel1.Font = new System.Drawing.Font("微软雅黑", 22F);
+            this.skinLabel1.Location = new System.Drawing.Point(309, 86);
+            this.skinLabel1.Name = "skinLabel1";
+            this.skinLabel1.Size = new System.Drawing.Size(227, 39);
+            this.skinLabel1.TabIndex = 0;
+            this.skinLabel1.Text = "欢迎使用本系统";
+            // 
             // Index
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -267,6 +285,8 @@
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Index_FormClosed);
             this.Load += new System.EventHandler(this.Index_Load);
             this.skinSplitContainer1.Panel1.ResumeLayout(false);
+            this.skinSplitContainer1.Panel2.ResumeLayout(false);
+            this.skinSplitContainer1.Panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.skinSplitContainer1)).EndInit();
             this.skinSplitContainer1.ResumeLayout(false);
             this.skinToolStrip1.ResumeLayout(false);
@@ -292,5 +312,6 @@
         private CCWin.SkinControl.SkinSplitContainer skinSplitContainer1;
         private CCWin.SkinControl.SkinButton skinButton1;
         private CCWin.SkinControl.SkinButton skinButton2;
+        private CCWin.SkinControl.SkinLabel skinLabel1;
     }
 }
